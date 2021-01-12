@@ -54,7 +54,8 @@ Good luck!
 
 If you finish early and want to get more practice with state and events, here are some ideas for additional features:
 
-- Add upvote/downvote buttons to each comment
-- Add a search bar to search comments by username
-- Add a "Remove Comment" button to delete comments from the page
+- Add upvote/downvote buttons to each comment DONE
+- Add a search bar to search comments by username DONE
+- Add a "Remove Comment" button to delete comments from the page DONE
 - Add a sorting feature to sort the comments
+    INTERNALLY SORTED, NO WAY FOR END USER TO SORT YET
